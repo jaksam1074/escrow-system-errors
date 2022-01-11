@@ -11,5 +11,5 @@ Error message example:
 
 ## Solutions
 1. Download the script again from [FiveM keymaster](https://keymaster.fivem.net/)
-2. Upload the script using **WinSCP** _instead of_ Filezilla
+2. Upload the script using [WinSCP](https://winscp.net/eng/download.php) _instead of_ Filezilla
 3. Restart the server
