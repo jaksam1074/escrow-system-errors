@@ -51,3 +51,5 @@ To transfer the script to another account, you can head to:
 
 ## Zap-Hosting server key
 If you are using a Zap-Hosting server, you do **not** have to enter your server key in server.cfg, but directly in their website
+
+![Zap-Hosting custom key settings](zap_hosting_custom_key.png "Zap-Hosting custom key settings")
