@@ -2,7 +2,7 @@
 
 Error message **example**:
 <br>
-`Error parsing script @esx_job_creator/server/markers/job_shop.lua in resource esx_job_creator: @esx_job_creator/server/markers/job_shop.lua:1: syntax error near '<\1>'`
+`Error parsing script @jobs_creator/server/markers/job_shop.lua in resource jobs_creator: @jobs_creator/server/markers/job_shop.lua:1: syntax error near '<\1>'`
 
 ## Possible reasons
 * Your server version is too old, the **minimum** version is 4752

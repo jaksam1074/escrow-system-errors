@@ -2,7 +2,7 @@
 
 Error message example:
 <br>
-`[svadhesive] Failed to verify protected resource esx_job_creator`
+`[svadhesive] Failed to verify protected resource jobs_creator`
 
 ## Possible reasons
 * You don't have `.fxmap` file in the script folder
