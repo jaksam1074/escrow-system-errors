@@ -18,5 +18,5 @@ To update your server version, you have to download the new [server artifacts](h
 
 This is the **official** [FiveM guide](https://docs.fivem.net/docs/server-manual/setting-up-a-server/) to update your server
 
-# My server version is already updated, but I have the error
+## My server version is already updated, but I have the error
 If you have the error even if your server version is not the issue, then you have to check [here](failed_to_verify_protected_resource.md)
