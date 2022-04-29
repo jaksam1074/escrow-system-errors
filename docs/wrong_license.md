@@ -49,7 +49,10 @@ To transfer the script to another account, you can head to:
 
 **Note: cfx.re decided that the scripts can be transferred only 1 time, so you won't be able to transfer the script again**
 
-## Zap-Hosting server key
+## ZAP-Hosting server key
 If you are using a Zap-Hosting server, you do **not** have to enter your server key in server.cfg, but directly in their website
 
+[Here there is the official guide of ZAP hosting for it](https://zap-hosting.com/guides/docs/en/fivem_licensekey/)
+
+Example screenshot:
 ![Zap-Hosting custom key settings](zap_hosting_custom_key.png "Zap-Hosting custom key settings")
