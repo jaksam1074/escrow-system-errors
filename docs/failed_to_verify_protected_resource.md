@@ -5,7 +5,7 @@ Error message example:
 `[svadhesive] Failed to verify protected resource jobs_creator`
 
 ## Possible reasons
-* You don't have `.fxmap` file in the script folder
+* You don't have `.fxap` file in the script folder
 * You are using **Filezilla**
 * Your server hosting is using **Filezilla** to upload the script
 
