@@ -15,3 +15,10 @@ extra:
   social:
     - icon: fontawesome/brands/discord
       link: https://discord.gg/7prxECaP6J
+
+nav:
+    - 'index.md'
+    - 'error_parsing_script.md'
+    - 'failed_to_verify_protected_resource.md'
+    - 'wrong_license.md'
+    - 'nothing_works.md'
